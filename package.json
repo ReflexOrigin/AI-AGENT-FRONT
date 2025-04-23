@@ -1,9 +1,9 @@
 {
   "name": "AI-FINANCE-ACCOUNTANT-AGENT",
+  "homepage": "https://reflexorigin.github.io/AI-AGENT-FRONT",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://reflexorigin.github.io/AI-AGENT-FRONT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
