@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ReflexOrigin.github.io/AI-AGENT-FRONT",
+  "homepage": "https://reflexorigin.github.io/AI-AGENT-FRONT",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
